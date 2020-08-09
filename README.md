@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-#### 😄 Pronouns:Keep calm and Continue to Coding.Not very much thing!!!
-### ⚡ Fun fact:And Stay to be strong
+#### Keep calm and Continue to Coding.Not very much thing 😄 !!!
+### ⚡ And Stay to be strong
 ![alttext](https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/source.gif)
 
 
