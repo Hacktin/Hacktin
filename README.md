@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+#### 😄 Pronouns:Keep calm and Continue to Coding.Not very much thing!!!
+### ⚡ Fun fact:And Stay to be strong
+![alttext](https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/source.gif)
+
+
 <!--
 **Hacktin/Hacktin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 
 - ⚡ Fun fact: ...
 -->
